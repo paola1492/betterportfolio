@@ -32,6 +32,15 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
+h3 {
+  color: #e71d36;
+}
+.tableauPlaceholder {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
