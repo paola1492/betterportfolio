@@ -35,6 +35,7 @@ h6 {
 h3 {
   color: #e71d36;
 }
+
 .tableauPlaceholder {
   display: block;
   margin-left: auto;
@@ -881,39 +882,39 @@ section {
 }
 
 .services .iconbox-blue i {
-  color: #47aeff;
+  color: #e71d36;
 }
 
 .services .iconbox-blue:hover .icon i {
-  color: #fff;
+  color: #d3818a;
 }
 
 .services .iconbox-blue:hover .icon path {
-  fill: #47aeff;
+  fill: #e71d36;
 }
 
 .services .iconbox-orange i {
-  color: #ffa76e;
+  color: #e71d36;
 }
 
 .services .iconbox-orange:hover .icon i {
-  color: #fff;
+  color: #e71d36;
 }
 
 .services .iconbox-orange:hover .icon path {
-  fill: #ffa76e;
+  fill: #dd8892;
 }
 
 .services .iconbox-pink i {
-  color: #e80368;
+  color: #e71d36;
 }
 
 .services .iconbox-pink:hover .icon i {
-  color: #fff;
+  color: #d98a93;
 }
 
 .services .iconbox-pink:hover .icon path {
-  fill: #e80368;
+  fill: #e71d36;
 }
 
 .services .iconbox-yellow i {
